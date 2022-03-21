@@ -1,0 +1,22 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: auto;
+  text-align: center;
+}
